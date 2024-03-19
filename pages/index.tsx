@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>Plitter</title>
+      <title>OpinionOwl</title>
     </Head>
       <Header label="Home" />
       <Form placeholder="What's happening?" />
